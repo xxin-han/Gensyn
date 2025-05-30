@@ -1,4 +1,4 @@
-![Screenshot_7](https://github.com/user-attachments/assets/f601b4c6-cbe3-4f93-8c40-b564e0551b66)
+
 # 🧠 What is Nockchain?
 
 Gensyn is a decentralized platform and network designed to run and train machine learning (ML) models efficiently across the globe using distributed computing.
