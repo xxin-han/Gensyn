@@ -12,7 +12,7 @@ Gensyn is a decentralized platform and network designed to run and train machine
 
 
 ## Hardware Requirements
-| Miner CPU-based         
+| CPU-based         
 
 |RAM   | CPU  | DISK  |
 |:-:|:-:|:-:|
