@@ -1,5 +1,5 @@
 
-# 🧠 What is Nockchain?
+# 🧠 What is Gensyn?
 
 Gensyn is a decentralized platform and network designed to run and train machine learning (ML) models efficiently across the globe using distributed computing.
 
