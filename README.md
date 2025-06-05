@@ -34,7 +34,7 @@ source $HOME/.cargo/env
 ```
 2. Auto setup Gensyn
 ```bash
-wget https://github.com/xxin-han/Gensyn/raw/main/AutoSetup.sh && chmod +x gensyn.sh && ./gensyn.sh
+wget https://github.com/xxin-han/Gensyn/raw/main/AutoSetup.sh -O AutoSetup.sh && chmod +x AutoSetup.sh && ./AutoSetup.sh
 ```
 ```bash
 source ~/.bashrc
